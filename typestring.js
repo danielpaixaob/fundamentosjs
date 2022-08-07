@@ -14,6 +14,6 @@ const citacao = 'O Léo disse "Oi"';
 const concatenacao = "Meu nome é ";
 const nome = "Daniel.";
 console.log(concatenacao + nome);
-//concatenação é para juntar duas partes de texto, isso se faz usando o valor de (+) entre as duas strings.
+//concatenação é para juntar duas partes de texto, isso se faz usando o valor de (+) entre as duas variaveis.
 
 //template string ou template literal é uma terceira forma de se escrever strings em Javascript.
